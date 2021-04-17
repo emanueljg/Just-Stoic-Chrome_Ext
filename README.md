@@ -1,3 +1,5 @@
+# This is a light mode fork of the Just Stoic extension
+
 # Just-Stoic-Chrome_Ext
 
 A new tab extension that helps you to enjoy the teachings of the 2000 plus year old stoic philosophy. Each day a new quote is displayed. The quotes are taken from the works of the stoic heavyweights Marcus Aurelius, Seneca and Epictetus. 
